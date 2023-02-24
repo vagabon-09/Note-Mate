@@ -12,21 +12,20 @@
         android:theme="@style/Theme.NoteMate"
         tools:targetApi="31">
         <activity
-            android:name=".loginpage"
+            android:name=".LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".starapp"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".SplashActivityOne"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+        <activity
+            android:name=".SplashActivityTwo"
+            android:exported="false" />
 
     </application>
 
