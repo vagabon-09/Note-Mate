@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Note Mate</string>
+    <string name="f1">UPLOAD YOUR OWN NOTES  </string>
+    <string name="f2">GET NOTES OF WHATEVER YOU WANT </string>
+    <string name="f1but">NEXT</string>
+    <string name="f2but">GET STARTED</string>
 </resources>
