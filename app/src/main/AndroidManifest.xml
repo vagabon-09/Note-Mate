@@ -12,6 +12,12 @@
         android:theme="@style/Theme.NoteMate"
         tools:targetApi="31">
         <activity
+            android:name=".loginpage"
+            android:exported="false" />
+        <activity
+            android:name=".starapp"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -19,7 +25,9 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
     </application>
 
 </manifest>
