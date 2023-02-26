@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/pagebackcolor"
-    tools:context=".loginpage">
+    tools:context=".LoginActivity">
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:maxWidth="286px"
-        android:maxHeight="256px"
+        android:maxWidth="286dp"
+        android:maxHeight="256dp"
         android:src="@drawable/abc"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
