@@ -42,7 +42,7 @@
         android:layout_width="310dp"
         android:layout_height="48dp"
         android:background="@drawable/loginbtn"
-        android:hint="Enter Your Email Adress"
+        android:hint="Enter your email address"
         android:maxWidth="316dp"
         android:maxHeight="53dp"
         android:paddingLeft="20dp"

@@ -5,6 +5,8 @@
     <string name="f1but">NEXT</string>
     <string name="f2but">GET STARTED</string>
     <string name="logword">Welcome Back!</string>
+    <string name="regword">Welcome Onboard!</string>
+    <string name="regline">Let\'s start our journey together__</string>
     <string name="log_forgot_pw">Forgot Password?</string>
     <string name="log_not_an_account">Do Not Have Any Account?</string>
 </resources>
